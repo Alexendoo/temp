@@ -1,0 +1,7 @@
+name: Temp
+on: [push]
+jobs:
+  j:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "### Summary" > $GITHUB_STEP_SUMMARY
