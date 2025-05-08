@@ -4,4 +4,9 @@ jobs:
   j:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "### Summary" > $GITHUB_STEP_SUMMARY
+      - uses: actions/checkout@v4
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: summary
+          path: summary.json
