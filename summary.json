@@ -1,0 +1,33 @@
+{
+    "commit": "5e3c672e50cb70b9347ab9115d54407a7ad09073",
+    "rows": [
+        {
+            "name": "clippy::collapsible_if",
+            "url": "https://github.com/rust-lang/rust-clippy/actions/runs/14763277413#user-content-collapsible-if",
+            "added": 0,
+            "removed": 0,
+            "changed": 1
+        },
+        {
+            "name": "clippy::elidable_lifetime_names",
+            "url": "https://github.com/rust-lang/rust-clippy/actions/runs/14763277413#user-content-elidable-lifetime-names",
+            "added": 30,
+            "removed": 0,
+            "changed": 1125
+        },
+        {
+            "name": "clippy::extra_unused_lifetimes",
+            "url": "https://github.com/rust-lang/rust-clippy/actions/runs/14763277413#user-content-extra-unused-lifetimes",
+            "added": 1,
+            "removed": 3,
+            "changed": 4
+        },
+        {
+            "name": "clippy::needless_lifetimes",
+            "url": "https://github.com/rust-lang/rust-clippy/actions/runs/14763277413#user-content-needless-lifetimes",
+            "added": 23,
+            "removed": 0,
+            "changed": 214
+        }
+    ]
+}
